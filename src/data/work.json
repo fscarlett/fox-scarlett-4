@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Project 1",
+    "summary": "Description of project 1",
+    "caseStudy": "1 para case study",
+    "image": "https://placehold.co/600x400/png",
+    "liveLink": "live link url 1"
+  },
+  {
+    "title": "Project 2",
+    "summary": "Description of project 2",
+    "caseStudy": "1 para case study",
+    "image": "https://placehold.co/600x400/png",
+    "liveLink": "live link url 2"
+  },
+  {
+    "title": "Project 3",
+    "summary": "Description of project 3",
+    "caseStudy": "1 para case study",
+    "image": "https://placehold.co/600x400/png",
+    "liveLink": "live link url 3"
+  }
+]
