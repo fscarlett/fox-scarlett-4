@@ -12,6 +12,14 @@ function HomeIntro() {
           experiences since 2015. I&apos;m committed to working with design,
           product, and engineering team members to create high quality products.
         </p>
+        <h3>Javascript Web Apps, Headless CMS</h3>
+        <p>
+          HTML, CSS, React, node.js, TypeScript, Next.js, Strapi, Sanity, etc
+          etc
+        </p>
+        <p>nap</p>
+        <p>socials</p>
+        <p>nav</p>
       </div>
     </section>
   )
