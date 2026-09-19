@@ -1,0 +1,11 @@
+.home-intro-section {
+  width: 100%;
+  padding: 2rem 10px;
+}
+
+.home-intro-title {
+  text-transform: uppercase;
+  font-size: 120px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
